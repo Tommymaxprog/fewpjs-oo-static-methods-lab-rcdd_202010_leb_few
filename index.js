@@ -23,7 +23,7 @@ class Formatter {
   //   let a=string.split(' ');
   //   a[0]=this.capitalize(a[0]);
   //   for(let i=1; i<a.length; i++)
-  //   {if((a[i]!="the")$$(a[i]!="a")$$(a[i]!="an")$$(a[i]!="but")$$(a[i]!="from")$$(a[i]!="of")$$(a[i]!="and")$$(a[i]!="for")$$(a[i]!="at")$$(a[i]!="by")){
+  //   {if((a[i]!="the")&&(a[i]!="a")&&(a[i]!="an")&&(a[i]!="but")&&(a[i]!="from")$$(a[i]!="of")$$(a[i]!="and")$$(a[i]!="for")$$(a[i]!="at")$$(a[i]!="by")){
       
       
       
