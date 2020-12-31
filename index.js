@@ -35,21 +35,4 @@ class Formatter {
     }
     return b.join(" ");
   }
-  // let exceptions = [ 'the', 'a', 'an', 'but', 'of', 'and', 'for', 'at', 'by', 'from' ]
-  //   let result = [];
-  //   let a = string.split( " " );
-  //   result.push( this.capitalize( a[0] ) )
-  //   for ( let i = 1; i < a.length; i++ ) {
-      
-        
-  //       if ( exceptions.includes( a[i] ) ) {
-  //         result.push( a[i] )
-  //       } else {
-  //         result.push( this.capitalize( a[i] ) )
-  //       }
-      //}
-
-    
-   // return result.join( " " );
-  //}
 }
